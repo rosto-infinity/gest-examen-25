@@ -39,7 +39,7 @@ session_start();
 <SCRIPT type="text/javascript" src="librairie_js/menudepart1.js"></SCRIPT>
 <table border="1" bordercolor="#000000" cellpadding="3" cellspacing="1" width="100%" bgcolor="#FFFFFF" height="85">
 <tr bgcolor="#FFFFFF" bordercolor='#FFFFFF'><td > <p align="left"><font color="#000000" class=T0>
-<!-- // debut de la saisie -->
+<!-- // 6-debut de la saisie -->
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src='./image/logo_triade_licence.gif'>
 <ul>
